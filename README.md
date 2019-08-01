@@ -1,4 +1,7 @@
 # Hadoop-Project
+A project under the name of Xcelerator.
+Please find my scorecard in the file 'Scorecard - Aman Mishra.pdf'
+
 
 Problem Statement  
 

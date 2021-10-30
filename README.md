@@ -3,7 +3,7 @@
 ## What is AAdhar?
 Aadhaar is a 12-digit unique identity number that can be obtained voluntarily by citizens of India, non-residents passport holders of India and resident foreign nationals who have spent over 182 days in twelve months immediately preceding the date of application for enrolment, based on their biometric and demographic data.
 
-### Problem Statement  
+### Objectives  
 
 carry out the following anaysis on a freely available Aadhar dataset - 
 
@@ -18,5 +18,4 @@ Dataset - Aadhaar Dataset
 - MapReduce
 - Python 
 
-A project under the name of Xcelerator.
-Please find my scorecard in the file 'Scorecard - Aman Mishra.pdf'
+This project was done in collaboration with [xcelerator.ninja](https://xcelerator.ninja/)

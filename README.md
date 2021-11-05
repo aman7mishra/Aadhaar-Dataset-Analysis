@@ -1,6 +1,6 @@
 # Aadhaar Dataset Analysis
 
-## What is AAdhar?
+## What is Aadhar?
 Aadhaar is a 12-digit unique identity number that can be obtained voluntarily by citizens of India, non-residents passport holders of India and resident foreign nationals who have spent over 182 days in twelve months immediately preceding the date of application for enrolment, based on their biometric and demographic data.
 
 ### Objectives  

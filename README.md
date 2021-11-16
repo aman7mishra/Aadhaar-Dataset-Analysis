@@ -19,3 +19,6 @@ Dataset - Aadhaar Dataset
 - Python 
 
 This project was done in collaboration with [xcelerator.ninja](https://xcelerator.ninja/)
+
+Here is the score card -
+![d6b219536d344e8785b6789c610a7e83-0001](https://user-images.githubusercontent.com/23186617/142040964-0df8aab6-f821-4172-b0f9-05e29948518e.jpg)

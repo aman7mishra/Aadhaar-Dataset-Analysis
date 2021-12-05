@@ -14,6 +14,7 @@ carry out the following anaysis on a freely available Aadhar dataset -
 Dataset - Aadhaar Dataset 
 
 ### Tools Used-
+- Hadoop
 - Hive
 - MapReduce
 - Python 
